@@ -1,10 +1,5 @@
 *Auto Commit Script*
 User: GitBot
 Script DIR: /home/owais/github-repos/git-bot
-Last Activity: 20:20:01
+Last Activity: 20:21:01
  
-git@github.com: Permission denied (publickey).
-fatal: Could not read from remote repository.
-
-Please make sure you have the correct access rights
-and the repository exists.
