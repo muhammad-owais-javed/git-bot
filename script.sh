@@ -12,7 +12,7 @@ cd $SCR_DIR
 echo "*Auto Commit Script*" > log.txt
 echo "User: $USER" >> log.txt
 echo "Script DIR: $SCR_DIR" >> log.txt
-echo "Last Activity: $(date +%H:%M:%S)" >> log.txt
+echo "Last Activity: $(date +%D-%H:%M:%S)" >> log.txt
 echo " " >> log.txt
 
 #Git Configuration
