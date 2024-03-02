@@ -20,6 +20,6 @@ git config user.name "$USER"
 git config user.email "$EMAIL"
 
 #Git Commit
-git add . 
+git add $SCR_DIR/. 
 git commit -m "Auto Commit @$(date +%H:%M:%S)"
 git push >> log.txt 2>&1 
