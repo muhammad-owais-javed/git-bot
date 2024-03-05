@@ -1,8 +1,8 @@
 #!/bin/bash
 
 #User Information
-USER="GitBot"
-EMAIL="GitBot@email.com"
+USER="Owais"
+EMAIL="50521519+muhammad-owais-javed@users.noreply.github.com"
 
 #ScriptDirectory
 SCR_DIR="$(dirname "$(readlink -f "$0")")"
